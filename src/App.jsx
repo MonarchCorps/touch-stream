@@ -1,6 +1,6 @@
 // import { useGsapScrollSmoother } from './components/Animations/GsapAnimations';
 // import { useGsapScrollSmoother } from './components/Animations/GsapAnimations';
-import Home from './Pages/Home';
+import Home from './pages/Home';
 
 function App() {
 
